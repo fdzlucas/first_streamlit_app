@@ -1,8 +1,11 @@
 import streamlit 
 
-streamlit.title("New tracking system")
+streamlit.title("My Parents New Healthy Dinner")
 
-streamlit.header("Weekend Schedule")
-streamlit.text("Saturday & Sunday morning run")
-streamlit.text("Saturday & Sunday morning gym")
-streamlit.text("Saturday & Sunday evening violin") 
+streamlit.header("🥣 Breakfast Menu")
+streamlit.text("🥗 Omega 3 & Blueberry Oatmeals")
+streamlit.text("🐔 Kale, Spinach & Rocket Smoothie")
+streamlit.text("🥑🍞 Avocado Toast") 
+
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
